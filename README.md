@@ -1,2 +1,2 @@
 # Mak
-Collectibles manager (Menadżer Artykułów Kolekcjonerskich)
+Menadżer Artykułów Kolekcjonerskich (Collectibles manager) 
